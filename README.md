@@ -1,4 +1,4 @@
-# prog-7-sem
+# prog-7-sem выполнено соколовой анной
 
 [ЛР1](https://github.com/calabiyauspace/prog-7-sem/tree/main/lr1)
 
